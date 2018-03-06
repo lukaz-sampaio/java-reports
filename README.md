@@ -19,4 +19,4 @@ Ele construido em cima do Tomcat (a versão que eu estou usando é a [7.0.69](ht
 
 Crie um banco de dados chamado ****java_web_basics**** e depois rode os scripts dentro da pasta `*/others/sql*` (o arquivos estão enumerados o que significa a ordem de execução).
 
-**NOTA**: Se usar a IDE Eclipse siga estas [instruções](http://www.guj.com.br/t/como-importar-um-projeto-netbeans-no-eclipse/274446/4).
+**NOTA**: Se for usuário da IDE Eclipse siga estas [instruções](http://www.guj.com.br/t/como-importar-um-projeto-netbeans-no-eclipse/274446/4).
