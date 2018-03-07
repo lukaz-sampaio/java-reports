@@ -1,0 +1,8 @@
+CREATE SCHEMA pg;
+
+CREATE TABLE pessoa(
+idpessoa SERIAL PRIMARY KEY,
+nome VARCHAR(80),
+email VARCHAR(40)
+);
+
